@@ -18,6 +18,7 @@ Across various studies there is no sure correlation between income levels and li
 Hence it would be interesting to find out the correlation between income levels and life satisfaction for the following brfss data set.
 
 **Research question 3:**
+
 RQ3.3 How does life satisfaction vary between genders based on income level?
 
 The common notion is that women are happier than men even though they are worse off in many measurable ways, like less educated, lower incomes, worse self-reported health. This notion has been found to be misinterpreted as per the findings by Mallory Montgomery in her article dated 2016, where it was found that when the response scales for men and women was normalized, it was found that women are actually less happier than men on average. 
