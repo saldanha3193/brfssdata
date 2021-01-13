@@ -644,6 +644,12 @@ summary {
 <p><strong>Summary Statistics:</strong> From the column plots, it can be inferred that there is no conclusive evidence that women reported lower live satisfaction as compared to men in the same personal income bracket, with the exception for the income levels between %35,000 to less than $50,000 where more females than men reported average life satisfaction.</p>
 <p><strong>Conclusion:</strong></p>
 <p>From the above column plots we can conclude that for a particular income level, both men and women have reported almost equal levels of life satisfaction and dissatisfaction respectively. There is no clear trend observed.</p>
+<p><strong>References:</strong></p>
+<p>David M Diez, Christopher D Barr and Mine Cetinkaya-Rundel. “OpenIntro Statistics, Third Edition”. (2016).</p>
+<p>“Statistics with R Specialization”, by Duke University on Coursera (coursera discussion forums)</p>
+<p><a href="https://stackoverflow.com" class="uri">https://stackoverflow.com</a></p>
+<p><a href="https://rpubs.com/" class="uri">https://rpubs.com/</a></p>
+<p><a href="https://coursera-assessments.s3.amazonaws.com/assessments/1591387271702/08648c24-8314-4dcf-f470-0240507b7e71/wk5_project_final.html" class="uri">https://coursera-assessments.s3.amazonaws.com/assessments/1591387271702/08648c24-8314-4dcf-f470-0240507b7e71/wk5_project_final.html</a></p>
 </div>
 
 
